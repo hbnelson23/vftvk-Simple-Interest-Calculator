@@ -1,4 +1,4 @@
-function compute()
+function compute() 
 {
 	var principal = document.getElementById("principal").value;
 
